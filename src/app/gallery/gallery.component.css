@@ -1,0 +1,11 @@
+.Item{
+    display: grid;
+    grid-template-columns: auto 1fr;
+    margin: 1%;
+}
+.Content{
+    margin: auto 0;
+    text-align: center;
+    font-size: 125%;
+    font-style: italic;
+}

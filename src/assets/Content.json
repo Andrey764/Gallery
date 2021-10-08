@@ -1,0 +1,23 @@
+
+    [ {
+        "Title": "Мо́на Ли́за",
+        "Author":"Леонардо да Винчи",
+        "YearCreation":"1503—1519",
+        "Size":"76,8 × 53",
+        "Location":"Музей: Лувр; Город: Париж",
+        "Path":"../assets/MonaLisa.jpg"
+    }, {
+        "Title": "Мадонна с гвоздикой",
+        "Author":"Леонардо да Винчи",
+        "YearCreation":"1478",
+        "Size":"42 × 67",
+        "Location":"Музей: Старая пинакотека; Город: Мюнхен",
+        "Path":"../assets/MadonnaCarnation.jpg"
+    }, {
+        "Title": "Благовещение",
+        "Author":"Леонардо да Винчи",
+        "YearCreation":"1472—1475",
+        "Size":"98 × 217",
+        "Location":"Музей: Уффици; Город: Флоренция",
+        "Path":"../assets/Annunciation.jpg"
+    }]

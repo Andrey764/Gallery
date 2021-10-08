@@ -1,0 +1,12 @@
+<ul>
+    <li [ngClass]="{Item:true}" *ngFor="let picture of collection">
+        <img [ngStyle]="{'margin':'auto 0'}" [src]="picture.Path" [alt]="picture.Title" width="200" height="auto">
+        <div [ngClass]="{Content:true}">
+            <h3>{{picture.Title}}</h3>
+            <div>Автор: {{picture.Author}}</div>
+            <div>{{picture.Location}}</div>
+            <div>Розмер: {{picture.Size}}см.</div>
+            <div>Год создания: {{picture.YearCreation}}</div>
+        </div>
+    </li>
+</ul>
